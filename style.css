@@ -1,0 +1,33 @@
+/* Add custom styles here */
+
+  
+  #menu h2 {
+    margin-bottom: 40px;
+  }
+  
+  .card {
+    border: none;
+    transition: transform 0.2s;
+  }
+  
+  .card:hover {
+    transform: scale(1.05);
+  }
+.logo{
+    font-size: 100px;
+    font-weight: 30px;
+    color: rgb(255, 0, 212);
+}
+span{
+    color: rgb(0, 255, 242);
+}
+.nav-brand{
+    color: rgb(255, 0, 212);
+}
+a{
+    text-decoration: none;
+}
+svg.bi bi-facebook{
+    padding: 100px;
+}
+  
